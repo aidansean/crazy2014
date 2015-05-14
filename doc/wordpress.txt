@@ -1,0 +1,10 @@
+When I heard the sad news about flight MH17 I couldn't quite understand what was happening.  It seemed like the worst parts of 2014 had come together in a way that nobody could have predicted.  I tried to sum up the situation in this infographic.  This mini project was in fact an excuse to practice some infographic making skills, which I had not used for a long time.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/crazy2014/">Live page</a>
+<a href="https://github.com/aidansean/crazy2014">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This is rendered on the canvas, as usual.
